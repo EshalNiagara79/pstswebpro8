@@ -49,3 +49,10 @@ Struktur tabel `siswa` pada database `studentdb.sql` adalah sebagai berikut:
 1.  `Clone` repositori ini ke folder `htdocs` XAMPP Anda.
 2.  `Import` file database **`studentdb.sql`** ke `phpMyAdmin` MySQL Anda.
 3.  Jalankan aplikasi di *browser* dengan URL: `http://localhost/crud-students/` atau dengan URL `http://127.0.0.1:8000/students`
+
+---
+
+## 💻 Aplikasi yang Digunakan
+-   **`VScode`**
+-   **`XAMPP`**
+-   **`Goole Chrome`** atau web browser lain 
