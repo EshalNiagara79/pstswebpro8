@@ -9,7 +9,7 @@
 
 # 🚀 CRUD Tabel Siswa
 
-Projek ini adalah tugas **Penilaian Sumatif Tengah Semester** kelas 11 semester 1 dari Student Day Programming Web, yang fokus pada implementasi **CRUD** (Create, Read, Update, Delete) pada tabel data siswa.
+Projek ini adalah tugas **Penilaian Sumatif Tengah Semester** kelas XI semester 1 dari Student Day Programming Web, yang fokus pada implementasi **CRUD** (Create, Read, Update, Delete) pada tabel data siswa.
 
 ---
 
